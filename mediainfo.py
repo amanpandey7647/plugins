@@ -5,7 +5,6 @@ import os
 
 from html_telegraph_poster import TelegraphPoster
 
-from . import humanbytes
 
 
 async def post_to_telegraph(page_title, html_format_content):
